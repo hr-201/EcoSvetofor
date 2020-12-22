@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.svetofor",
+  "applicationId": "com.shguz.ecosvetofor",
   "variantName": "processDebugResources",
   "elements": [
     {
